@@ -1,3 +1,3 @@
 ul{list-style-type: none;}
-body{background-color: lightgray; font-family:sans-serif;}
+body{background-color: lightgray; font-family:sans-serif; background-image:linear-gradient(270deg,lightgray 10px,cyan 10px 20px,lime 20px 30px,yellow 30px 40px, orange 40px 50px, peru 50px 60px, lightgray 60px 70px);}
 audio{margin-top: 225px}
